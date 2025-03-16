@@ -1,0 +1,9 @@
+{
+  "name": "MMM-Habitica",
+  "version": "1.0.0",
+  "description": "Magic Mirror Module for displaying Habitica stats",
+  "main": "MMM-Habitica.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
